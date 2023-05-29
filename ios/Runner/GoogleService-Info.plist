@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>612198609908-e0t0s4uo3o7hk1aq1d8ubra7oli4n7cq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.612198609908-e0t0s4uo3o7hk1aq1d8ubra7oli4n7cq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAuYRoIpMSbLmQw0zRTRzQSYKF7wJL3XYQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>612198609908</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.footbook</string>
+	<key>PROJECT_ID</key>
+	<string>footbook-531a7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>footbook-531a7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:612198609908:ios:99f4533e290fe8d03ebfa1</string>
+</dict>
+</plist>
